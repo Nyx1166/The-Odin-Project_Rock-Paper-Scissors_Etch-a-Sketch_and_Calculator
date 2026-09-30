@@ -1,0 +1,17 @@
+Name: Mark Joseph C. Pelong
+Section: ITE 18 - FNHX1
+
+Etch-a-Sketch
+
+A simple drawing grid made using HTML, CSS, and JavaScript.
+
+- Starts with a 16×16 grid.
+- Hover over the squares to draw.
+- Change the grid size up to 100×100.
+- Erase individual squares using the Erase button.
+- Switch between drawing and erasing.
+
+Files:
+- index.html
+- style.css
+- script.js
