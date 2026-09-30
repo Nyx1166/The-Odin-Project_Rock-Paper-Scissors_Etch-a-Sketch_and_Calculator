@@ -1,0 +1,16 @@
+Name: Mark Joseph C. Pelong
+Section: ITE 18 - FNHX1
+
+Rock Paper Scissors
+
+A simple Rock Paper Scissors game made with JavaScript.
+
+- Player chooses Rock, Paper, or Scissors.
+- The computer randomly chooses a move.
+- The game plays 5 rounds.
+- The result and score are displayed on the page.
+- The final winner is displayed after 5 rounds.
+
+Files:
+- index.html
+- script.js
